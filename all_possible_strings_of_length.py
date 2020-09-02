@@ -7,7 +7,7 @@ def printAllStringsOfLengthk(set , k): # This method is mainly a wrapper over re
     printAllStringsOfLengthkRec(set , " ", length_set, k)
 
 ''' The main recursive method'''
-printAllStringsOfLengthkRec(set ,prefix  ,length_set ,k):
+def printAllStringsOfLengthkRec(set, prefix, length_set, k):
     if(k==0): #Base case where k is zero print prefix
         print(prefix) 
         return
@@ -19,8 +19,8 @@ printAllStringsOfLengthkRec(set ,prefix  ,length_set ,k):
 if __name__ == '__main__':
 
     print('First Sample Test')  #Sample test 1
-    set1 = ['a', 'b', 'c']
-    k = 4
+    set1 = ['a', 'b','c']
+    k = 2
     printAllStringsOfLengthk(set1 , k)
 
     print('\n Second Test')  #For sample test 2
