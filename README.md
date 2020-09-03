@@ -17,7 +17,8 @@ ranges.Meeting is represented as a list having tuples in form of (start time , e
 
 **Day 4**: 1)*Given a list of numbers(maybe positives or negatives) find triplets that equals to a desired sum*
 <br>
-
+           2)*Given three lists of take out orders, dine in orders and served orders.You need to find whether the service is first come first served
+            Problem Statement taken from : Interview Cake*
 
 
        
