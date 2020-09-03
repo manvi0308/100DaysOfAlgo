@@ -1,4 +1,8 @@
 ## 100DaysOfAlgo
+#### *I have taken this challenge from 31st August 2020 that i will daily solve Data Structures and Algorithm Problems for constantly 100 days.I will update my daily learning progress on Linkedin too in form of daily posts with attached screenshots of code for the problems being solved*<br>
+#### Problem Statement are taken from many sources like Geeks for Geeks, Interview Cake, Leetcode etc.<br>
+#### All codes/program files will have full problem statement, time and space complexity, Appoach to solve the problem, necessary comments for better understanding of code and steps
+
 ###  This repository will contain 100 days of Data structure and algorithms solved by me.
 **Day 1**: 1) *Tower of Hanoi*   (Referrals[https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/] )<br>
            2)  *N-Queens Problem* (Referrals[https://www.codesdope.com/blog/article/backtracking-explanation-and-n-queens-problem/])<br>
