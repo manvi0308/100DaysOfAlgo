@@ -20,15 +20,14 @@ ranges.Meeting is represented as a list having tuples in form of (start time , e
 <br>
 
 
-**Day 4**: 1)*Given a list of numbers(maybe positives or negatives) find triplets that equals to a desired sum*
-<br>
-           2)*Given three lists of take out orders, dine in orders and served orders.You need to find whether the service is first come first served
+**Day 4**: 1) *Given a list of numbers(maybe positives or negatives) find triplets that equals to a desired sum* <br>
+           2) *Given three lists of take out orders, dine in orders and served orders.You need to find whether the service is first come first served
             Problem Statement taken from : Interview Cake*
-
-
 <br>
-**Day 5** 1)* Chain Matrix Multiplication(https://www.radford.edu/~nokie/classes/360/dp-matrix-parens.html)Go through this link for better understanding of logic working behind the scenes<br>
-2)*Given an array of integers write a functon that returns true if there is a triplet (a, b, c) that satisfies a^2 = b^2+c^2
+
+
+**Day 5**: 1) *Chain Matrix Multiplication([https://www.radford.edu/~nokie/classes/360/dp-matrix-parens.html])Go through this link for better understanding of logic working behind the scenes<br>*
+2) *Given an array of integers write a functon that returns true if there is a triplet (a, b, c) that satisfies a^2 = b^2+c^2*
 
 
        
