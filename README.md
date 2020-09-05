@@ -28,6 +28,12 @@ ranges.Meeting is represented as a list having tuples in form of (start time , e
 
 **Day 5**: 1) *Chain Matrix Multiplication([https://www.radford.edu/~nokie/classes/360/dp-matrix-parens.html])Go through this link for better understanding of logic working behind the scenes<br>*
 2) *Given an array of integers write a functon that returns true if there is a triplet (a, b, c) that satisfies a^2 = b^2+c^2*
+<br>
+
+**Day 6**: 1) *Write a function that rotates an arr[] of size n by d elements in left direction*<br>
+2) *Write a program to print all leaders in array.An element is leader if its greater than all the elements to its right side.And the rightmost element is always a leader*
+<br>
+
 
 
        
