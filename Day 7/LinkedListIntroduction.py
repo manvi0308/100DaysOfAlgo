@@ -1,4 +1,6 @@
-# Linked list traversal
+'''Linked list - Creation of Linked List
+               - Insertion of Linked List
+               - Printing of Linked List'''
 class Node:
     def __init__(self,data):
         self.data = data
