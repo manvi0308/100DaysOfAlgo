@@ -8,11 +8,9 @@
            2)  *N-Queens Problem* (Referrals[https://www.codesdope.com/blog/article/backtracking-explanation-and-n-queens-problem/])<br>
 <br>
 
-           
 **Day 2**: 1) *Permutation of a given string*<br>
            2) *Permutation of a given string in lexicographical order*<br>
 <br>
-
 
 **Day 3**: 1) *Print all possible strings of length k that can be formed from a set of n characters*<br>
            2) *Write a function merge_ranges() that takes a list of multiple meeting time ranges and returns a list of condensed 
@@ -25,7 +23,6 @@ ranges.Meeting is represented as a list having tuples in form of (start time , e
             Problem Statement taken from : Interview Cake*
 <br>
 
-
 **Day 5**: 1) *Chain Matrix Multiplication([https://www.radford.edu/~nokie/classes/360/dp-matrix-parens.html])Go through this link for better understanding of logic working behind the scenes<br>*
 2) *Given an array of integers write a functon that returns true if there is a triplet (a, b, c) that satisfies a^2 = b^2+c^2*
 <br>
@@ -33,6 +30,9 @@ ranges.Meeting is represented as a list having tuples in form of (start time , e
 **Day 6**: 1) *Write a function that rotates an arr[] of size n by d elements in left direction*<br>
 2) *Write a program to print all leaders in array.An element is leader if its greater than all the elements to its right side.And the rightmost element is always a leader*
 <br>
+
+**Day 7**: 1) *Write a program to check whether two numbers are co-prime or not* <br>
+2) *Some basic sorting algorithms*
 
 
 
