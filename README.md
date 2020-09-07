@@ -5,18 +5,15 @@
 
 ###  This repository will contain 100 days of Data structure and algorithms solved by me.
 **Day 1**: 1) *Tower of Hanoi*   (Referrals[https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/] )<br>
-           2)  *N-Queens Problem* (Referrals[https://www.codesdope.com/blog/article/backtracking-explanation-and-n-queens-problem/])<br>
+           2)  *N-Queens Problem* (Referrals[https://www.codesdope.com/blog/article/backtracking-explanation-and-n-queens-problem/])
 <br>
 
 **Day 2**: 1) *Permutation of a given string*<br>
-           2) *Permutation of a given string in lexicographical order*<br>
-<br>
+           2) *Permutation of a given string in lexicographical order*
+ <br>
 
 **Day 3**: 1) *Print all possible strings of length k that can be formed from a set of n characters*<br>
-           2) *Write a function merge_ranges() that takes a list of multiple meeting time ranges and returns a list of condensed 
-ranges.Meeting is represented as a list having tuples in form of (start time , end time)*<br>
-<br>
-
+           2) *Write a function merge_ranges() that takes a list of multiple meeting time ranges and returns a list of condensed ranges.Meeting is represented as a list having tuples in form of (start time , end time)*<br>
 
 **Day 4**: 1) *Given a list of numbers(maybe positives or negatives) find triplets that equals to a desired sum* <br>
            2) *Given three lists of take out orders, dine in orders and served orders.You need to find whether the service is first come first served
@@ -33,7 +30,11 @@ ranges.Meeting is represented as a list having tuples in form of (start time , e
 
 **Day 7**: 1) *Write a program to check whether two numbers are co-prime or not* <br>
 2) *Some basic sorting algorithms*
+<br>
 
+**Day 8**:  1)*Given a binary String with wildcard characters('?') at some places.Print all the possible binary strings combinations formed by replacing wildcard characters with 0 or 1*<br>
+2)*Print all the possible solutions of N Queens Problems*
+<br>
 
 
        
