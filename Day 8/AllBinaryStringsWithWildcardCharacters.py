@@ -3,7 +3,8 @@ combinations formed by replacing wildcard characters with 0 or 1
 Approach            : Recursive and Backtracking
 Point to Consider   : For a string with n wildcard characters , 2^n unique combination could be there of 0s and 1s so total
 2^n strings will be formed after replacing wildcard characters with 0 and 1
-Example             : 1?1 ,possible strings could be 101 and 111 '''
+Example             : 1?1 ,possible strings could be 101 and 111 
+Mathematical Concept involved : Permutations and Combinations'''
 
 
 def printBinaryStrings(str , i = 0):
