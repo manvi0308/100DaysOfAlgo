@@ -38,5 +38,8 @@
 
 **Day 9**:  1)*Python program to generate all binary strings with equal sums in left and right halves.*<br>
 2)*Program to print all combination of size r in an array of size n*
-       
+<br>
+
+**Day 10**: 1)*Power set in lexicographical order*<br>
+2)*Taken from codechef([https://www.codechef.com/problems/LECANDY])*
 
