@@ -42,4 +42,7 @@
 
 **Day 10**: 1)*Power set in lexicographical order*<br>
 2)*Taken from codechef([https://www.codechef.com/problems/LECANDY])*
+<br>
 
+**Day 11**: 1)*Count substrings that start and end with same letter*<br>
+2)*Count consonants in a string**
