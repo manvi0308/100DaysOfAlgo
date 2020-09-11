@@ -46,3 +46,7 @@
 
 **Day 11**: 1)*Count substrings that start and end with same letter*<br>
 2)*Count consonants in a string**
+<br>
+
+**Day 12**:  1)*Solved chef and notebooks from codechef([https://www.codechef.com/problems/CNOTE])*<br>
+
