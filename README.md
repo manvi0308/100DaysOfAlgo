@@ -49,5 +49,5 @@
 <br>
 
 **Day 12**:  1)*Solved chef and notebooks from codechef([https://www.codechef.com/problems/CNOTE])*<br>
-2)*Swap Nodes in pairs([leetcode.com/problems/swap-nodes-in-pairs])*
+2)*Swap Nodes in pairs([https://leetcode.com/problems/swap-nodes-in-pairs])*
 
