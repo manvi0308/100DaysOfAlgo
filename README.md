@@ -53,5 +53,14 @@
 <br>
 
 **Day 13**:  1)*Quadruplets with a given sum*<br>
+2)*Minimum number possible after k swaps*
+<br>
+
+**Day 14**:  1)*Kadane's algorithtm*<br>
+2)*Given two sorted arrays X[] and Y[] of size m and n where m>=n and X[] has exactly n vacant positions, merge elements of Y[] in their correct position in array X[] i.e.merge
+X[] and Y[] by maintaining the sorted order
+<br>
+
+**Day 15**: 1)*Linked list insertion*
 
 
