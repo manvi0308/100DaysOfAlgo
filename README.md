@@ -61,6 +61,11 @@
 X[] and Y[] by maintaining the sorted order
 <br>
 
-**Day 15**: 1)*Linked list insertion*
+**Day 15**: 1)*Linked list insertion*<br>
+2)*Counting number of nodes in a Linked list iteratively*
+<br>
+
+**Day 16**1)*Deleting nodes in a linked list*<br>
+2)*To get the Nth node in a Linked list*<br>
 
 
