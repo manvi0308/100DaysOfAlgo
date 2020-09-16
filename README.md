@@ -70,4 +70,6 @@ X[] and Y[] by maintaining the sorted order
 <br>
 
 **Day 17**1)*Counting number of times a particular node occurs in a singly linked list*<br>
+2)*Write a program to get the Nth node from last in a singly linke list*<br>
+3)*Function to reverse a singly linked list*
 
