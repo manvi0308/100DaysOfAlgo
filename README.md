@@ -66,6 +66,8 @@ X[] and Y[] by maintaining the sorted order
 <br>
 
 **Day 16**1)*Deleting nodes in a linked list*<br>
-2)*To get the Nth node in a Linked list*<br>
+2)*To get the Nth node in a Linked list*
+<br>
 
+**Day 17**1)*Counting number of times a particular node occurs in a singly linked list*<br>
 
