@@ -4,6 +4,7 @@
 #### All codes/program files will have full problem statement, time and space complexity, Appoach to solve the problem, necessary comments for better understanding of code and steps
 
 ###  This repository will contain 100 days of Data structure and algorithms solved by me.
+### Arrays(Recursion, Backtracking)
 **Day 1**: 1) *Tower of Hanoi*   (Referrals[https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/] )<br>
            2)  *N-Queens Problem* (Referrals[https://www.codesdope.com/blog/article/backtracking-explanation-and-n-queens-problem/])
 <br>
@@ -61,6 +62,7 @@
 X[] and Y[] by maintaining the sorted order
 <br>
 
+### Linked List
 **Day 15**: 1)*Linked list insertion*<br>
 2)*Counting number of nodes in a Linked list iteratively*
 <br>
@@ -70,6 +72,11 @@ X[] and Y[] by maintaining the sorted order
 <br>
 
 **Day 17**1)*Counting number of times a particular node occurs in a singly linked list*<br>
-2)*Write a program to get the Nth node from last in a singly linke list*<br>
+2)*Write a program to get the Nth node from last in a singly linked list*<br>
 3)*Function to reverse a singly linked list*
+<br>
+
+**Day 18**1)*Reverse Specified Portion of a Linked list*<br>
+2)*Write a program to find the middle element of linked list*<br>
+
 
