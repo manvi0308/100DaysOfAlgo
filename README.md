@@ -77,6 +77,10 @@ X[] and Y[] by maintaining the sorted order
 <br>
 
 **Day 18**1)*Reverse Specified Portion of a Linked list*<br>
-2)*Write a program to find the middle element of linked list*<br>
+2)*Write a program to find the middle element of linked list*
+<br>
+
+**Day 19**1)*Given a singly linked list, whose nodes represent digits of a number, add a single digit number to it.*<br>
+2)*Remove duplicates from singly linked sorted list*
 
 
