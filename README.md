@@ -82,5 +82,9 @@ X[] and Y[] by maintaining the sorted order
 
 **Day 19**1)*Given a singly linked list, whose nodes represent digits of a number, add a single digit number to it.*<br>
 2)*Remove duplicates from singly linked sorted list*
+<br>
+
+**Day 20**1)*Given a singly linked list, check whether the linked list is palindrome or not*<br>
+2)*Added a new file named "Algorithms", added some basics like sorting algorithms in it
 
 
