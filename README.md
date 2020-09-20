@@ -86,5 +86,8 @@ X[] and Y[] by maintaining the sorted order
 
 **Day 20**1)*Given a singly linked list, check whether the linked list is palindrome or not*<br>
 2)*Added a new file named "Algorithms", added some basics like sorting algorithms in it
+<br>
+
+**Day 21**1)*Doubly linked list -all methods of insertion*
 
 
