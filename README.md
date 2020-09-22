@@ -89,5 +89,12 @@ X[] and Y[] by maintaining the sorted order
 <br>
 
 **Day 21**1)*Doubly linked list -all methods of insertion*
+<br>
+
+**Day 22**1)*Insertion sort in a singly linked list*<br>
+2)* Add two linked list without using any extra space*
+<br>
+
+**Day 23**1)*Removing redundant nodes in a linked list*
 
 
