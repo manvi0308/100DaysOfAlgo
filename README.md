@@ -96,5 +96,7 @@ X[] and Y[] by maintaining the sorted order
 <br>
 
 **Day 23**1)*Removing redundant nodes in a linked list*
+<br>
 
+**Day 25**1)*Seggregate even ond odd nodes in a linked list*
 
