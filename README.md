@@ -98,5 +98,10 @@ X[] and Y[] by maintaining the sorted order
 **Day 23**1)*Removing redundant nodes in a linked list*
 <br>
 
-**Day 25**1)*Seggregate even ond odd nodes in a linked list*
+**Day 24**1)*Intersection of linked list*
+<br>
 
+**Day 25**1)*Seggregate even ond odd nodes in a linked list*
+<br>
+
+**Day 26**1)*Reordering a linked list*(https://www.interviewbit.com/problems/reorder-list/)
