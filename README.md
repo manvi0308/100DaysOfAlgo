@@ -105,3 +105,6 @@ X[] and Y[] by maintaining the sorted order
 <br>
 
 **Day 26**1)*Reordering a linked list*(https://www.interviewbit.com/problems/reorder-list/)
+<br>
+
+**Day 27**1)*Partitioning a given linked list(https://www.interviewbit.com/problems/partition-list/)
