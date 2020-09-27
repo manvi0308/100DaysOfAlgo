@@ -108,3 +108,7 @@ X[] and Y[] by maintaining the sorted order
 <br>
 
 **Day 27**1)*Partitioning a given linked list(https://www.interviewbit.com/problems/partition-list/)
+<br>
+
+**Day 28**1)Sort Binary linked list(https://www.interviewbit.com/problems/sort-binary-linked-list/)<br>
+2)*Prime sum*(https://www.interviewbit.com/problems/-sumprime/)
