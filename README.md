@@ -112,3 +112,6 @@ X[] and Y[] by maintaining the sorted order
 
 **Day 28**1)Sort Binary linked list(https://www.interviewbit.com/problems/sort-binary-linked-list/)<br>
 2)*Prime sum*(https://www.interviewbit.com/problems/-sumprime/)
+<br>
+
+**Day 29**1)*Sum of pairwise hamming distances*
