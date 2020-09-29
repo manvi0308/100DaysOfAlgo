@@ -115,3 +115,6 @@ X[] and Y[] by maintaining the sorted order
 <br>
 
 **Day 29**1)*Sum of pairwise hamming distances*
+<br>
+
+**Day 30**1)*Fizzbuzz*  (https://www.interviewbit.com/problems/fizzbuzz/)
