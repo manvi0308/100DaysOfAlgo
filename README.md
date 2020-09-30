@@ -114,7 +114,7 @@ X[] and Y[] by maintaining the sorted order
 2)*Prime sum*(https://www.interviewbit.com/problems/-sumprime/)
 <br>
 
-# Problems Related to Mathematics/Analytical Thinking
+### Problems Related to Mathematics/Analytical Thinking
 **Day 29**1)*Sum of pairwise hamming distances*
 <br>
 
