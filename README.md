@@ -122,3 +122,7 @@ X[] and Y[] by maintaining the sorted order
 <br>
 
 **Day 31**1)*Number of length N and Value K*(https://www.interviewbit.com/problems/numbers-of-length-n-and-value-less-than-k/)
+<br>
+
+**Day 32**1) *A items are to be delivered in a circle of size B.<br>
+Find the position where the Ath item will be delivered if we start from a given position C.(https://www.interviewbit.com/problems/distribute-in-circle/)*
