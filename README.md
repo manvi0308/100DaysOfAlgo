@@ -126,3 +126,11 @@ X[] and Y[] by maintaining the sorted order
 
 **Day 32**1) *A items are to be delivered in a circle of size B.<br>
 Find the position where the Ath item will be delivered if we start from a given position C.(https://www.interviewbit.com/problems/distribute-in-circle/)*
+<br>
+
+**Day 33**1) *Largest Coprime divisor*<br>
+2) *Trailing zeroes in factorial of number*
+<br>
+
+**Day 34**1) *Excel column title*<br>
+2) *Next Similar Number*<br>
