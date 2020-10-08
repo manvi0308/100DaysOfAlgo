@@ -134,3 +134,25 @@ Find the position where the Ath item will be delivered if we start from a given 
 
 **Day 34**1) *Excel column title*<br>
 2) *Next Similar Number*<br>
+
+**Day 35**  *1) Step By Step(https://lnkd.in/dWAqGSf)* <br>
+*2) Chef and Card Game(https://lnkd.in/dtHxACG)*
+<br>
+
+**Day 36** 1)*1) Given a string, find the rank of the string amongst its permutations sorted lexicographically. Assume that no characters are repeated.*<br>
+2) *Chef and Rainbow Array(taken from Codechef)*<br>
+
+**Day 37** 1)* Rearrange a given array so that arr[i] becomes arr[arr[i]] with O(1) extra space, assume that all elements are in the range of [0, N-1] and N*N doesn't overflow*<br>
+
+**Day 38** 1) *1) Given an integer A you need to find the Ath fibonacci number modulo 10^9 + 7.(https://lnkd.in/gXvFzSV)*<br>
+*2)Implementation of stack using arrays*
+<br>
+
+**Day 39** 1)* Given an array, find the nearest smaller element G[i] for every element A[i] in the array such that the element has an index smaller than i.
+
+More formally,
+
+    G[i] for an element A[i] = an element A[j] such that 
+    j is maximum possible AND 
+    j < i AND
+    A[j] < A[i]*
