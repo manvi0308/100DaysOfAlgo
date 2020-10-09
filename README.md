@@ -156,3 +156,6 @@ More formally,
     j is maximum possible AND 
     j < i AND
     A[j] < A[i]*
+    <br>
+    
+** Day 40**  *1) Linked list implementation of Stack*
