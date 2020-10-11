@@ -159,3 +159,11 @@ More formally,
     <br>
     
 ** Day 40**  *1) Linked list implementation of Stack*
+<br>
+
+**Day 41** *1)Implement two stacks using single array*<br>
+*2) Program to sort an array using Stack*
+<br>
+
+**Day 42** *1) Fibonacci series using Memoization*<br>
+*2) Fibonacci Number using Tabulated(bottom-up) version*<br>
