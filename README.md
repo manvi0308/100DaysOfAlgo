@@ -166,4 +166,33 @@ More formally,
 <br>
 
 **Day 42** *1) Fibonacci series using Memoization*<br>
-*2) Fibonacci Number using Tabulated(bottom-up) version*<br>
+*2) Fibonacci Number using Tabulated(bottom-up) version*
+<br>
+
+**Day 43** *1)  Given an array of N including positive and negative numbers only. The task is to find the length of the longest alternating (means negative-positive-negative or positive-negative-positive) subarray present in the array.*
+<br>
+
+**Day 44** *1)Solved some mcq's from interview bit*
+<br>
+
+**Day 45**  *1)1) Matrix Chain Multiplication* <br>
+*2) Maximum value from a given sequence of coins*
+<br>
+
+**Day 46** *1) Find total ways to reach the nth stair from bottom* <br>
+*2) Minimum number of deletions required to convert a string to palindrome*
+<br>
+
+**Day 47** *1) Given two strings A and B. Find the longest common sequence ( A sequence which does not need to be contiguous), which is common in both the strings.
+You need to return the length of such longest common subsequence.*
+<br>
+
+**Day 48** *1)Longest Palindromic Sequence*
+<br>
+
+**Day 49** *1)To find the Nth bell number [Let S(n, k) be total number of partitions of n elements into k sets. The value of n’th Bell Number is sum of S(n, k) for k = 1 to n]
+*
+<br>
+
+**Day 50** *1)Min sum path formed by 2d Matrix*
+<br>
