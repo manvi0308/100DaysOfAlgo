@@ -175,6 +175,7 @@ More formally,
 **Day 44** *1)Solved some mcq's from interview bit*
 <br>
 
+### DYNAMIC PROGRAMMING
 **Day 45**  *1)1) Matrix Chain Multiplication* <br>
 *2) Maximum value from a given sequence of coins*
 <br>
@@ -195,4 +196,26 @@ You need to return the length of such longest common subsequence.*
 <br>
 
 **Day 50** *1)Min sum path formed by 2d Matrix*
+<br>
+
+**Day 51**  *1) Given a string A, find length of the longest repeating sub-sequence such that the two subsequence don’t have same string character at same position,
+i.e., any i’th character in the two subsequences shouldn’t have the same index in the original string.*
+<br>
+
+**Day 52** *1) Given two strings A and B, find the minimum number of steps required to convert A to B. (each operation is counted as 1 step.)[Levenshtein Distance]*
+<br>
+
+**Day 53** *1) Largest Area of Rectangle with Permutations(Given a binary grid A of size N x M consisting of 0's and 1's, find the area of the largest rectangle inside the grid such that all the cells inside the chosen rectangle should have 1 in them.
+You are allowed to permutate the columns matrix i.e. you can arrange each of the column in any order in the final grid.*
+<br>
+
+**Day 54** *1) Ways to reach the bottom right corner of a matrix with exactly K turns allowed.*
+<br>
+
+### GRAPHS
+
+**Day 55** *1)Representation of graphs using Adjacency List**
+<br>
+
+**Day 56** *1)Breadth First Search in Graphs**
 <br>
