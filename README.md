@@ -218,5 +218,21 @@ You are allowed to permutate the columns matrix i.e. you can arrange each of the
 **Day 55** *1)Representation of graphs using Adjacency List**
 <br>
 
-**Day 56** *1)Breadth First Search in Graphs**
+**Day 56** *1)Breadth First Search in Graphs*
+<br>
+
+**Day 57** *1) Depth First Traversal of Graph* <br>
+2) Depth First Traversal for handling disconnected graphs.
+<br>
+
+**Day 58** *1)Dijkstra's Algorithm*<br>
+
+**Day 59** *1)Kruskal's Minimum Spanning Tree Algorithm*<br>
+
+**Day 60** *1)Topological Sorting for Directed Acyclic Graph*<br>
+
+**Day 61** *1)Given an directed graph having A nodes labelled from 1 to A containing M edges given by matrix B of size M x 2such that there is a edge directed from node
+B[i][0] to node B[i][1].
+Find whether a path exists from node 1 to node A.
+Return 1 if path exists else return 0.*
 <br>
