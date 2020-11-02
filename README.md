@@ -1,4 +1,11 @@
 ## 100DaysOfAlgo
+![License](https://img.shields.io/github/license/manvi0308/100DaysOfAlgo)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
+<br>
+![ProgrammingLanguages](https://img.shields.io/badge/Language-Python-blue)
+![ProgrammingLanguages](https://img.shields.io/badge/Language-Java-blue)
+
 #### *I have taken this challenge from 31st August 2020 that i will daily solve Data Structures and Algorithm Problems for constantly 100 days.I will update my daily learning progress on Linkedin too in form of daily posts with attached screenshots of code for the problems being solved*<br>
 #### *I have also merged Hackerrank solutions of challenge(30 days of code) to this repo and NPTEL Assignments Solutions(Programming in Java) by Debasis Samanta in a separate Folder following the naming conventions** (They have no relation with this 100 days challenge and i have updated them here just for some future changes that will be made very soon in coming 15-20 days to this repo.
 #### Problem Statement are taken from many sources like Geeks for Geeks, Interview Cake, Leetcode etc.<br>
