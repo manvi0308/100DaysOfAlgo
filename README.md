@@ -1,10 +1,8 @@
 ## 100DaysOfAlgo
-![License](https://img.shields.io/github/license/manvi0308/100DaysOfAlgo)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-[![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
+
+[![Downloads](https://pepy.tech/badge/lightgbm)](https://pepy.tech/project/lightgbm)
+
 <br>
-![ProgrammingLanguages](https://img.shields.io/badge/Language-Python-blue)
-![ProgrammingLanguages](https://img.shields.io/badge/Language-Java-blue)
 <br>
 <br>
 
