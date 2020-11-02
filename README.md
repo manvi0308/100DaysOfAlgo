@@ -6,9 +6,6 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 <br>
-<br>
-<br>
-
 ## Have a look at detailed index before navigating further<br>
 
 Topic | Number of problems solved | Sources<br>
