@@ -5,6 +5,20 @@
 <br>
 ![ProgrammingLanguages](https://img.shields.io/badge/Language-Python-blue)
 ![ProgrammingLanguages](https://img.shields.io/badge/Language-Java-blue)
+<br>
+<br>
+
+## Have a look at detailed index before navigating further<br>
+
+Topic | Number of problems solved | Sources<br>
+----- | ------------------------- | ------------------------
+Arrays | 28                       | Geeks for Geeks, Techiedelight
+Linked List |23                   | Geeks for Geeks, InterviewBit
+Mathematical Thinking | 23        | Interview Bit, Tutorials Point
+Dynamic Programming | 16          | Interview Bit, Cracking the coding Interview Book
+Graphs              | 9           | Programiz, Interview Bit
+
+
 
 #### *I have taken this challenge from 31st August 2020 that i will daily solve Data Structures and Algorithm Problems for constantly 100 days.I will update my daily learning progress on Linkedin too in form of daily posts with attached screenshots of code for the problems being solved*<br>
 #### *I have also merged Hackerrank solutions of challenge(30 days of code) to this repo and NPTEL Assignments Solutions(Programming in Java) by Debasis Samanta in a separate Folder following the naming conventions** (They have no relation with this 100 days challenge and i have updated them here just for some future changes that will be made very soon in coming 15-20 days to this repo.
