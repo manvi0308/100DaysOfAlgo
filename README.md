@@ -8,7 +8,8 @@
 ![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20C-orange)
 
 <br>
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+
 ## Have a look at detailed index before navigating further<br>
 
 Topic | Number of problems solved | Sources<br>
