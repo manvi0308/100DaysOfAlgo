@@ -1,6 +1,9 @@
 ## 100DaysOfAlgo
 
 [![Downloads](https://pepy.tech/badge/lightgbm)](https://pepy.tech/project/lightgbm)
+[![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
+![License](https://img.shields.io/github/license/manvi0308/100DaysOfAlgo)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 <br>
 <br>
