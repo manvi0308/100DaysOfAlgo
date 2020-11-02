@@ -1,11 +1,14 @@
 ## 100DaysOfAlgo
 
+![License](https://img.shields.io/github/license/manvi0308/100DaysOfAlgo)
 [![Downloads](https://pepy.tech/badge/lightgbm)](https://pepy.tech/project/lightgbm)
 [![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
-![License](https://img.shields.io/github/license/manvi0308/100DaysOfAlgo)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+<br>
+![tags](https://badgen.net/github/tags/micromatch/micromatch)
+![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20C-orange)
 
 <br>
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 ## Have a look at detailed index before navigating further<br>
 
 Topic | Number of problems solved | Sources<br>
@@ -15,6 +18,8 @@ Linked List |23                   | Geeks for Geeks, InterviewBit
 Mathematical Thinking | 23        | Interview Bit, Tutorials Point
 Dynamic Programming | 16          | Interview Bit, Cracking the coding Interview Book
 Graphs              | 9           | Programiz, Interview Bit
+Hackerrank 30dayschallenge | 30   | Hackerrank
+NPTEL Programming In Java Assignment Solutions  | 15   | NPTEL
 
 
 
