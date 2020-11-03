@@ -10,6 +10,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 ### Start Coding Today !! The More you code, the more you grow
+![](Images/dsa.jpg)
+![](Images/download.jpg)
 
 Topic | Number of problems solved | Sources<br>
 ----- | ------------------------- | ------------------------
@@ -24,7 +26,7 @@ NPTEL Programming In Java Assignment Solutions  | 15   | NPTEL
 <br>
 
 ---
-
+![](Images/100days.jpg)
 
 ![Arrays](https://img.shields.io/badge/Topic-Arrays-red)<br>
 
