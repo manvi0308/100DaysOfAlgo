@@ -1,3 +1,10 @@
+
+
+<h1 align ="center">100 Days Coding Challenge</p>
+<h3 align = "center">Coding is Fun, Code daily</p>
+<h4 align = "center">Code daily , Add your solutions to the Repo by making a pull request, you can also edit/add multiple solutions to the solved problems</h4>
+<br>
+
 ![License](https://img.shields.io/github/license/manvi0308/100DaysOfAlgo)
 [![Downloads](https://pepy.tech/badge/lightgbm)](https://pepy.tech/project/lightgbm)
 [![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
@@ -6,9 +13,6 @@
 ![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20C-orange)
 ![Version](https://img.shields.io/pypi/pyversions/pyttsx3)
 <br>
-
--> 100 Days Coding Challenge <-
-### Index
 
 Topic | Number of problems solved | Sources<br>
 ----- | ------------------------- | ------------------------
@@ -23,8 +27,10 @@ NPTEL Programming In Java Assignment Solutions  | 15   | NPTEL
 <br>
 
 ---
-<br>
+
+
 ![Arrays](https://img.shields.io/badge/Topic-Arrays-red)<br>
+
 **Day 1**: 1) *Tower of Hanoi*   (Referrals[https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/] )<br>
            2)  *N-Queens Problem* (Referrals[https://www.codesdope.com/blog/article/backtracking-explanation-and-n-queens-problem/])
 <br>
@@ -82,6 +88,8 @@ NPTEL Programming In Java Assignment Solutions  | 15   | NPTEL
 X[] and Y[] by maintaining the sorted order
 <br>
 
+---
+
 ![Topic](https://img.shields.io/badge/Topic-Linked%20List-red)<br>
 
 **Day 15**: 1)*Linked list insertion*<br>
@@ -134,6 +142,8 @@ X[] and Y[] by maintaining the sorted order
 **Day 28**1)Sort Binary linked list(https://www.interviewbit.com/problems/sort-binary-linked-list/)<br>
 2)*Prime sum*(https://www.interviewbit.com/problems/-sumprime/)
 <br>
+
+---
 
 ![Topic](https://img.shields.io/badge/Topic-Mathematical%20Approach-red)<br>
 
@@ -198,6 +208,8 @@ More formally,
 **Day 44** *1)Solved some mcq's from interview bit*
 <br>
 
+---
+
 ![Topic](https://img.shields.io/badge/Topic-Dynamic%20Programming-red)<br>
 **Day 45**  *1)1) Matrix Chain Multiplication* <br>
 *2) Maximum value from a given sequence of coins*
@@ -234,6 +246,8 @@ You are allowed to permutate the columns matrix i.e. you can arrange each of the
 
 **Day 54** *1) Ways to reach the bottom right corner of a matrix with exactly K turns allowed.*
 <br>
+
+---
 
 ![Topic](https://img.shields.io/badge/Topic-Graphs-red)
 <br>
