@@ -6,9 +6,8 @@
 <br>
 ![tags](https://badgen.net/github/tags/micromatch/micromatch)
 ![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20C-orange)
-
+![Version](https://img.shields.io/pypi/pyversions/pyttsx3)
 <br>
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 ## Have a look at detailed index before navigating further<br>
 
@@ -30,7 +29,9 @@ NPTEL Programming In Java Assignment Solutions  | 15   | NPTEL
 #### All codes/program files will have full problem statement, time and space complexity, Appoach to solve the problem, necessary comments for better understanding of code and steps
 
 ###  This repository will contain 100 days of Data structure and algorithms solved by me.
-### Arrays(Recursion, Backtracking)
+<br>
+
+![Arrays](https://img.shields.io/badge/Topic-Arrays-red)<br>
 **Day 1**: 1) *Tower of Hanoi*   (Referrals[https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/] )<br>
            2)  *N-Queens Problem* (Referrals[https://www.codesdope.com/blog/article/backtracking-explanation-and-n-queens-problem/])
 <br>
@@ -88,7 +89,8 @@ NPTEL Programming In Java Assignment Solutions  | 15   | NPTEL
 X[] and Y[] by maintaining the sorted order
 <br>
 
-### Linked List
+![Topic](https://img.shields.io/badge/Topic-Linked%20List-red)<br>
+
 **Day 15**: 1)*Linked list insertion*<br>
 2)*Counting number of nodes in a Linked list iteratively*
 <br>
@@ -140,7 +142,9 @@ X[] and Y[] by maintaining the sorted order
 2)*Prime sum*(https://www.interviewbit.com/problems/-sumprime/)
 <br>
 
-### Problems Related to Mathematics/Analytical Thinking
+![Topic](https://img.shields.io/badge/Topic-Mathematical%20Approach-red)<br>
+
+
 **Day 29**1)*Sum of pairwise hamming distances*
 <br>
 
@@ -184,7 +188,7 @@ More formally,
     A[j] < A[i]*
     <br>
     
-** Day 40**  *1) Linked list implementation of Stack*
+**Day 40**  *1) Linked list implementation of Stack*
 <br>
 
 **Day 41** *1)Implement two stacks using single array*<br>
@@ -201,7 +205,7 @@ More formally,
 **Day 44** *1)Solved some mcq's from interview bit*
 <br>
 
-### DYNAMIC PROGRAMMING
+![Topic](https://img.shields.io/badge/Topic-Dynamic%20Programming-red)<br>
 **Day 45**  *1)1) Matrix Chain Multiplication* <br>
 *2) Maximum value from a given sequence of coins*
 <br>
@@ -238,7 +242,8 @@ You are allowed to permutate the columns matrix i.e. you can arrange each of the
 **Day 54** *1) Ways to reach the bottom right corner of a matrix with exactly K turns allowed.*
 <br>
 
-### GRAPHS
+![Topic](https://img.shields.io/badge/Topic-Graphs-red)
+<br>
 
 **Day 55** *1)Representation of graphs using Adjacency List**
 <br>
