@@ -9,6 +9,9 @@
 <br>
 
 ---
+[![Coding Background](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FProgrammerHumor%2Fcomments%2F9qmqxc%2Fcoding_wallpaper_story_of_my_life%2F&psig=AOvVaw15c8V5ZBeZbubhGNU99xOR&ust=1604474020364000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCLnNXp5ewCFQAAAAAdAAAAABAR)
+
+
 
 ### Start Coding Today !! The More you code, the more you grow
 
