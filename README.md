@@ -5,7 +5,10 @@
 <h4 align = "center">Code daily , Add your solutions to the Repo by making a pull request, you can also edit/add multiple solutions to the solved problems</h4>
 <br>
 
+---
+
 ![License](https://img.shields.io/github/license/manvi0308/100DaysOfAlgo)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
 [![Downloads](https://pepy.tech/badge/lightgbm)](https://pepy.tech/project/lightgbm)
 [![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
 <br>
@@ -13,6 +16,8 @@
 ![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20C-orange)
 ![Version](https://img.shields.io/pypi/pyversions/pyttsx3)
 <br>
+
+---
 
 Topic | Number of problems solved | Sources<br>
 ----- | ------------------------- | ------------------------
