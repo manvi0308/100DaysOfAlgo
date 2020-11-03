@@ -19,6 +19,8 @@
 
 ---
 
+### Start Coding Today !! The More you code, the more you grow
+
 Topic | Number of problems solved | Sources<br>
 ----- | ------------------------- | ------------------------
 Arrays | 28                       | Geeks for Geeks, Techiedelight
@@ -36,11 +38,12 @@ NPTEL Programming In Java Assignment Solutions  | 15   | NPTEL
 
 ![Arrays](https://img.shields.io/badge/Topic-Arrays-red)<br>
 
-**Day 1**: 1) *Tower of Hanoi*   (Referrals[https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/] )<br>
-           2)  *N-Queens Problem* (Referrals[https://www.codesdope.com/blog/article/backtracking-explanation-and-n-queens-problem/])
+**Day 1**
+1)*Tower of Hanoi*   (Referrals[https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/] )<br>
+2)*N-Queens Problem* (Referrals[https://www.codesdope.com/blog/article/backtracking-explanation-and-n-queens-problem/])
 <br>
 
-**Day 2**: 1) *Permutation of a given string*<br>
+**Day 2** : 1) *Permutation of a given string*<br>
            2) *Permutation of a given string in lexicographical order*
  <br>
 
