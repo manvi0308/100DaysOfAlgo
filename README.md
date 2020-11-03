@@ -9,7 +9,7 @@
 ![Version](https://img.shields.io/pypi/pyversions/pyttsx3)
 <br>
 
-## Have a look at detailed index before navigating further<br>
+Index
 
 Topic | Number of problems solved | Sources<br>
 ----- | ------------------------- | ------------------------
