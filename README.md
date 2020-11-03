@@ -1,3 +1,8 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Maintained](https://img.shields.io/badge/Maintained%3F-Yes-brightgreen)
+
+[![Python](https://img.shields.io/pypi/pyversions/pyttsx3)
+[![Programming Languages](https://img.shields.io/badge/Programming%20Languages-Python%7C%20Java%20%7C%20C-brightgreen)
 
 
 <h1 align ="center">100 Days Coding Challenge</p>
