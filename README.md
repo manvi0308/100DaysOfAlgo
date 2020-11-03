@@ -1,6 +1,3 @@
-
-
-
 ![License](https://img.shields.io/github/license/manvi0308/100DaysOfAlgo)
 [![Downloads](https://pepy.tech/badge/lightgbm)](https://pepy.tech/project/lightgbm)
 [![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
@@ -10,7 +7,8 @@
 ![Version](https://img.shields.io/pypi/pyversions/pyttsx3)
 <br>
 
-Index
+-> 100 Days Coding Challenge <-
+### Index
 
 Topic | Number of problems solved | Sources<br>
 ----- | ------------------------- | ------------------------
@@ -22,16 +20,10 @@ Graphs              | 9           | Programiz, Interview Bit
 Hackerrank 30dayschallenge | 30   | Hackerrank
 NPTEL Programming In Java Assignment Solutions  | 15   | NPTEL
 
-
-
-#### *I have taken this challenge from 31st August 2020 that i will daily solve Data Structures and Algorithm Problems for constantly 100 days.I will update my daily learning progress on Linkedin too in form of daily posts with attached screenshots of code for the problems being solved*<br>
-#### *I have also merged Hackerrank solutions of challenge(30 days of code) to this repo and NPTEL Assignments Solutions(Programming in Java) by Debasis Samanta in a separate Folder following the naming conventions** (They have no relation with this 100 days challenge and i have updated them here just for some future changes that will be made very soon in coming 15-20 days to this repo.
-#### Problem Statement are taken from many sources like Geeks for Geeks, Interview Cake, Leetcode etc.<br>
-#### All codes/program files will have full problem statement, time and space complexity, Appoach to solve the problem, necessary comments for better understanding of code and steps
-
-###  This repository will contain 100 days of Data structure and algorithms solved by me.
 <br>
 
+---
+<br>
 ![Arrays](https://img.shields.io/badge/Topic-Arrays-red)<br>
 **Day 1**: 1) *Tower of Hanoi*   (Referrals[https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/] )<br>
            2)  *N-Queens Problem* (Referrals[https://www.codesdope.com/blog/article/backtracking-explanation-and-n-queens-problem/])
