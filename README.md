@@ -6,15 +6,6 @@
 <br>
 
 ---
-
-![License](https://img.shields.io/github/license/manvi0308/100DaysOfAlgo)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
-[![Downloads](https://pepy.tech/badge/lightgbm)
-[![HitCount](http://hits.dwyl.com/{manvi0308}/{100DaysOfAlgo}.svg)
-<br>
-![tags](https://badgen.net/github/tags/micromatch/micromatch)
-![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20C-orange)
-![Version](https://img.shields.io/pypi/pyversions/pyttsx3)
 <br>
 
 ---
