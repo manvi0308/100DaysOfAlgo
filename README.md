@@ -287,6 +287,11 @@ Return 1 if path exists else return 0.*
 
 **Day 62**  *)Graph coloring Problem*<br>
 
+![](https://img.shields.io/badge/Topic-Trees-red)
+**Day 63**  *1) Insertion in binary tree where level order traversal is given *<br>
+
+**Day 64**  *1)To find binary tree with given inorder traversal*<br>
+*2) To find height of binary tree from inorder and levelorder traversals.*
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 
