@@ -35,6 +35,7 @@ Linked List |23                   | Geeks for Geeks, InterviewBit
 Mathematical Thinking | 23        | Interview Bit, Tutorials Point
 Dynamic Programming | 16          | Interview Bit, Cracking the coding Interview Book
 Graphs              | 9           | Programiz, Interview Bit
+Tree                | 5           | Cracking the coding Interview Book
 Hackerrank 30dayschallenge | 30   | Hackerrank
 NPTEL Programming In Java Assignment Solutions  | 15   | NPTEL
 
@@ -298,6 +299,15 @@ Return 1 if path exists else return 0.*
 
 **Day 64**  *1)To find binary tree with given inorder traversal*<br>
 *2) To find height of binary tree from inorder and levelorder traversals.*
+<br>
+
+**Day 65**  *1) Diagonal traversal of binary tree*<br>
+*2) Find nth node in postorder traversal of binary tree*
+<br>
+
+**Day 66**  *1)Check if a binary tree is height balanced or not.*<br>
+
+**Day 67**  *1)Find Kth smallest element in Binary Search Tree*
 <br>
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
