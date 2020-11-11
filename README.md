@@ -310,5 +310,14 @@ Return 1 if path exists else return 0.*
 **Day 67**  *1)Find Kth smallest element in Binary Search Tree*
 <br>
 
+**Day 68**  *1)Revisited Some basic concepts of Trees *
+<br>
+
+**Day 69**  *1)Check if two node are in same subtrees of the root node.*
+<br>
+
+**Day 70**  *1)Implementation of AVL Trees*
+<br
+
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 
