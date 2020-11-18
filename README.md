@@ -317,7 +317,13 @@ Return 1 if path exists else return 0.*
 <br>
 
 **Day 70**  *1)Implementation of AVL Trees*
-<br
+<br>
+
+**Day 71**  *1)Deletion in AVL trees*
+<br>
+
+**Day 72**  *1)Remove invalid parenthesis in an expression*
+<br>
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 
