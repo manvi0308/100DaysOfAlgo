@@ -325,5 +325,12 @@ Return 1 if path exists else return 0.*
 **Day 72**  *1)Remove invalid parenthesis in an expression*
 <br>
 
+**Day 73**  *1) Given a limited range array contains both positive and non-positive numbers, i.e., elements are in the range from -MAX to +MAX. Search if some number is present in the array or not in O(1) time*
+<br>
+
+*2)Sorting using trivial hash function.*
+<br>
+
+
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 
