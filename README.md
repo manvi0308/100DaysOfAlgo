@@ -33,9 +33,10 @@ Topic | Number of problems solved | Sources<br>
 Arrays | 28                       | Geeks for Geeks, Techiedelight
 Linked List |23                   | Geeks for Geeks, InterviewBit
 Mathematical Thinking | 23        | Interview Bit, Tutorials Point
-Dynamic Programming | 16          | Interview Bit, Cracking the coding Interview Book
+Dynamic Programming | 16          | Interview Bit, Elements of programming interview Book
 Graphs              | 9           | Programiz, Interview Bit
-Tree                | 5           | Cracking the coding Interview Book
+Tree                | 5           | Elements of programming interview Book
+Hashing             | 5           | Techie delight
 Hackerrank 30dayschallenge | 30   | Hackerrank
 NPTEL Programming In Java Assignment Solutions  | 15   | NPTEL
 
@@ -43,6 +44,7 @@ NPTEL Programming In Java Assignment Solutions  | 15   | NPTEL
 
 ---
 ![](Images/100days.jpg)
+
 
 ![Arrays](https://img.shields.io/badge/Topic-Arrays-red)<br>
 
