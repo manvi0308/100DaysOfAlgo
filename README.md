@@ -323,11 +323,12 @@ Return 1 if path exists else return 0.*
 <br>
 
 **Day 72**  *1)Remove invalid parenthesis in an expression*
+<br>
 
-<br>
 ---
-![](https://img.shields.io/badge/Topic%20-Hashing-red)
+![Topic](https://img.shields.io/badge/Topic%20-Hashing-red)
 <br>
+
 **Day 73**  *1) Given a limited range array contains both positive and non-positive numbers, i.e., elements are in the range from -MAX to +MAX. Search if some number is present in the array or not in O(1) time*
 <br>
 
@@ -342,8 +343,8 @@ Return 1 if path exists else return 0.*
 2) Given an array of integers, find the length of the longest sub-sequence such that elements in thesubsequence are consecutive integers, the consecutive numbers can be in any order.*
 <br>
 
-**Day 76**  *1)Given an array with distinct elements, the task is to find the pairs in the array such that a % b = k, where k is a given integer.<br>
-2)Given an array of n integers, find the sum of f(a[i], a[j]) of all pairs (i, j) such that (1 <= i < j <= n).
+**Day 76**  *1)Given an array with distinct elements, the task is to find the pairs in the array such that a % b = k, where k is a given integer.*<br>
+*2)Given an array of n integers, find the sum of f(a[i], a[j]) of all pairs (i, j) such that (1 <= i < j <= n).*
 <br>
 
 
