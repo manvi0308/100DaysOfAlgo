@@ -325,6 +325,8 @@ Return 1 if path exists else return 0.*
 **Day 72**  *1)Remove invalid parenthesis in an expression*
 <br>
 
+![](https://img.shields.io/badge/Topic%20-Hashing-red)
+<br>
 **Day 73**  *1) Given a limited range array contains both positive and non-positive numbers, i.e., elements are in the range from -MAX to +MAX. Search if some number is present in the array or not in O(1) time*
 <br>
 
