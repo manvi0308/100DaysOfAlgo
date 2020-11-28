@@ -15,10 +15,3 @@ def check(n, m):
 	else : 
 		print( "No" ) 
 
-# Driver Code 
-m = 3
-n = 9
-check(n, m) 
-
-# This code is contributed 
-# by Smitha 
