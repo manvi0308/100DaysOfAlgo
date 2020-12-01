@@ -30,15 +30,16 @@
 
 Topic | Number of problems solved | Sources<br>
 ----- | ------------------------- | ------------------------
-Arrays | 28                       | Geeks for Geeks, Techiedelight
+Arrays | 32                      | Geeks for Geeks, Techiedelight
 Linked List |23                   | Geeks for Geeks, InterviewBit
 Mathematical Thinking | 23        | Interview Bit, Tutorials Point
 Dynamic Programming | 16          | Interview Bit, Elements of programming interview Book
 Graphs              | 9           | Programiz, Interview Bit
 Tree                | 5           | Elements of programming interview Book
-Hashing             | 5           | Techie delight
+Hashing             | 8          | Techie delight
 Hackerrank 30dayschallenge | 30   | Hackerrank
 NPTEL Programming In Java Assignment Solutions  | 15   | NPTEL
+Total | 171
 
 <br>
 
@@ -349,6 +350,18 @@ Return 1 if path exists else return 0.*
 *2)Given an array of n integers, find the sum of f(a[i], a[j]) of all pairs (i, j) such that (1 <= i < j <= n).*
 <br>
 
+**Day 77** *1) Given an array, count pairs in the array such that one element of pair divides other<br>
+2)Given two arrays with size n, maximize the first array by using the elements from the second array such that the new array formed contains n greatest but unique elements of both the arrays giving the second array priority
+<br>
+
+**Day 78**  *1)Implemented FCFS Scheduling Algorithm in Python.*<br>
+
+**Day 79**  *1) Fibonacci series using two variables<br>
+2) Given two numbers M and N, the task is to check if the M-th and N-th Fibonacci numbers perfectly divide each other or not.
+<br>
+
+**Day 80**  *1) Given an array and k, we need to find the minimum operations needed to make GCD of the array equal or multiple of k. Here an operation means either increment or decrements an array element by 1.*
+<br>
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 
