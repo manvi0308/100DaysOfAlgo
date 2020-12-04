@@ -41,6 +41,9 @@ Hackerrank 30dayschallenge | 30   | Hackerrank
 NPTEL Programming In Java Assignment Solutions  | 15   | NPTEL
 Total | 171
 
+
+#### Find the ![RESOURCES](https://github.com/manvi0308/100DaysOfAlgo/tree/master/resources) here
+
 <br>
 
 ---
