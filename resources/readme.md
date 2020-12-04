@@ -1,4 +1,5 @@
-![](https://github.com/manvi0308/100DaysOfAlgo/blob/master/resources/images.jpg)
+
+![](https://github.com/manvi0308/100DaysOfAlgo/blob/master/resources/img2.jpeg)
 
 
 
