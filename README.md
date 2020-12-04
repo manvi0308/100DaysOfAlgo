@@ -363,5 +363,18 @@ Return 1 if path exists else return 0.*
 **Day 80**  *1) Given an array and k, we need to find the minimum operations needed to make GCD of the array equal or multiple of k. Here an operation means either increment or decrements an array element by 1.*
 <br>
 
+![](https://img.shields.io/badge/Topic-Miscellaneous-red)
+
+**Day 81**  *1) Finding determinant of 2D Matrix* <br>
+*2) Rotate square matrix by 90 degrees* 
+<br>
+
+**Day 82**  *1)Kosaraju's algorithm*<br>
+<br>
+
+**Day 83 and 84**  *1) Connecting Soldiers (https://www.codechef.com/problems/NOKIA)*<br>
+2) Fit squares in Triangle(https://www.codechef.com/problems/TRISQ)
+<br>
+
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 
