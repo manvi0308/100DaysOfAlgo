@@ -39,7 +39,7 @@ Tree                | 5           | Elements of programming interview Book
 Hashing             | 8          | Techie delight
 Hackerrank 30dayschallenge | 30   | Hackerrank
 NPTEL Programming In Java Assignment Solutions  | 15   | NPTEL
-Total | 171
+Total | 188
 
 
 #### Find the ![RESOURCES](https://github.com/manvi0308/100DaysOfAlgo/tree/master/resources) here
@@ -199,7 +199,7 @@ Find the position where the Ath item will be delivered if we start from a given 
 
 **Day 37** 1)* Rearrange a given array so that arr[i] becomes arr[arr[i]] with O(1) extra space, assume that all elements are in the range of [0, N-1] and N*N doesn't overflow*<br>
 
-**Day 38** 1) *1) Given an integer A you need to find the Ath fibonacci number modulo 10^9 + 7.(https://lnkd.in/gXvFzSV)*<br>
+**Day 38**  *1) Given an integer A you need to find the Ath fibonacci number modulo 10^9 + 7.(https://lnkd.in/gXvFzSV)*<br>
 *2)Implementation of stack using arrays*
 <br>
 
@@ -233,7 +233,7 @@ More formally,
 ---
 
 ![Topic](https://img.shields.io/badge/Topic-Dynamic%20Programming-red)<br>
-**Day 45**  *1)1) Matrix Chain Multiplication* <br>
+**Day 45**  *1) Matrix Chain Multiplication* <br>
 *2) Maximum value from a given sequence of coins*
 <br>
 
@@ -376,6 +376,29 @@ Return 1 if path exists else return 0.*
 **Day 83 and 84**  *1) Connecting Soldiers (https://www.codechef.com/problems/NOKIA)*<br>
 2) Fit squares in Triangle(https://www.codechef.com/problems/TRISQ)
 <br>
+
+**Day 85**   *1)Revision Day**
+<br>
+
+**Day 86**  *1) Linear Diophantine equations*<br>
+*2)Sieve of eratosthenes*
+<br>
+
+**Day 87**  *1)Construct a height balanced BST from an unbalanced BST.*
+<br>
+
+**Day 88**  *1) Given a string and a pattern containing wildcard characters, write an efficient algorithm to check if input stringmatches with wildcard pattern or not*
+<br>
+
+**Day 89**  *1)Given a collection of numbers, return all possible permutations.<br>
+*2) Given two integers n and k, return all possible combinations of k numbers out of 1 2 3 ... n.*
+<br>
+
+**Day 90**  *1) Given a set of candidate numbers (C) and a target number (T), find all unique combinations in C where the candidate numbers sums to T.*<br>
+*2) Given an integer array A of size N consisting of unique integers from 1 to N. You can swap any two integers atmost B times.Return the largest lexicographical value array that can be created by executing atmost B swaps.*
+
+
+
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 
