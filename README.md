@@ -396,6 +396,22 @@ Return 1 if path exists else return 0.*
 
 **Day 90**  *1) Given a set of candidate numbers (C) and a target number (T), find all unique combinations in C where the candidate numbers sums to T.*<br>
 *2) Given an integer array A of size N consisting of unique integers from 1 to N. You can swap any two integers atmost B times.Return the largest lexicographical value array that can be created by executing atmost B swaps.*
+<br>
+
+**Day 91**  *1) Given n points on a 2D plane, find the maximum number of points that lie on the same straight line. <br>
+*2) Given an integer array A of size N consisting of unique integers from 1 to N. You can swap any two integers atmost B times.Return the largest lexicographical value array that can be created by executing atmost B swaps.*
+<br>
+
+**Day 92**  *1) Find all possible combinations of words formed from mobile keypad.*<br>
+*2) Print all distinct subsets of given set.*
+<br>
+
+**Day 93**  *1) The set [1,2,3,…,n] contains a total of n! unique permutations .Given n and k, return the kth permutation sequence.*<br>
+2) Given a string s, partition s such that every string of the partition is a palindrome
+<br>
+
+
+
 
 
 
