@@ -410,6 +410,28 @@ Return 1 if path exists else return 0.*
 2) Given a string s, partition s such that every string of the partition is a palindrome
 <br>
 
+**Day 94** *1) Given a staircase, find total number of ways to reach the n’th stair from bottom of the stair when a person is only allowed to climb either 1 or 2 or 3 stairs at a time.*<br>
+
+*2) Given n stairs and we have 2 colour yellow and green the task is that we have to paint given stairs by given colour with condition is that we cannot paints two yellow steps directly after each other.*
+<br>
+
+**Day 95**  *1)Given a string, a partitioning of the string is a palindrome partitioning if every substring of the partition is a palindrome. For example, “aba|b|bbabb|a|b|aba” is a palindrome partitioning of “ababbbabbababa”*<br>
+
+**Day 96**  *1)1) Given a encoded binary string and a Huffman MinHeap tree, your task is to complete the function decodeHuffmanData(), which decodes the binary encoded string and return the original string.*
+<br>
+
+**Day 97**  *1) Given a sequence of words, and a limit on the number of characters that can be put in one line (line width). Put line breaks in the given sequence such that the lines are printed neatly. Assume that the length of each word is smaller than the line width.*
+<br>
+
+**Day  98**  *1) Given three numbers a, b and k, find k-th digit in ab from right side*<br>
+*2) Given an array where every element occurs three times, except one element which occurs only once. Find the element that occurs once.*
+<br>
+
+**Day 99**  *1)Minimum weight triangulation of convex polygon.*
+<br>
+
+**Day 100**  *1)Added resources for all*
+
 
 
 
