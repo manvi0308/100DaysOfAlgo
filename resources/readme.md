@@ -5,11 +5,16 @@
 
 ### Here are the links to some useful resources for studying DSA<br>
 
-#### Online Tutorials, Because One need to brush up his/her skills before jumping into coding part <br>
+#### Pre-Requisites<br>
 
-##### 1) https://cp-algorithms.com/ - Description of algorithms and data structures<br>
-##### 2) https://cses.fi/problemset/<br>
-##### 3) Harvard CS50 (https://www.youtube.com/c/cs50/playlists)<br>
+**Master any one programming language, be it C++/Java/python, including its libraries, syntax**<br>
+
+#### 1) Harvard CS50((https://www.youtube.com/c/cs50/playlists)<br>
+A premier course by harvard university for teaching the basics in C language and enetring the world of programming
+#### 2) Geeks for Geeks course on any language(very efficient in competitive programming)<br>
+              i) C++ course : https://www.geeksforgeeks.org/c-plus-plus/<br>
+              ii)Java Course : https://www.geeksforgeeks.org/java/<br>
+#### 3) Java Course by Educative (https://www.educative.io/path/ace-java-coding-interview)
 <br>
 
 
