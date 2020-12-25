@@ -11,14 +11,15 @@
 
 #### 1) Harvard CS50((https://www.youtube.com/c/cs50/playlists)<br>
 A premier course by harvard university for teaching the basics in C language and enetring the world of programming
-#### 2) Geeks for Geeks course on any language(very efficient in competitive programming)<br>
+#### 2) Geeks for Geeks course on any language<br>
               i) C++ course : https://www.geeksforgeeks.org/c-plus-plus/<br>
               ii)Java Course : https://www.geeksforgeeks.org/java/<br>
 #### 3) Java Course by Educative (https://www.educative.io/path/ace-java-coding-interview)
 <br>
 
 
-Now since you have chosen, your programming language, jump into **Data Structures**<br>
+**Now since you have chosen, your programming language, jump into **Data Structures**<br>
+<br>
 1) Arrays — The very first and basic topic of DSA.<br>
              i) Basics of the array — Array lectures by Neso Academy (This is only for the people who want to learn from scratch)<br>
             ii) Sliding Window — Playlist by Aditya Verma<br>
