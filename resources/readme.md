@@ -19,13 +19,13 @@ A premier course by harvard university for teaching the basics in C language and
 
 
 Now since you have chosen, your programming language, jump into **Data Structures**<br>
-Arrays — The very first and basic topic of DSA.<br>
+1) Arrays — The very first and basic topic of DSA.<br>
              i) Basics of the array — Array lectures by Neso Academy (This is only for the people who want to learn from scratch)<br>
             ii) Sliding Window — Playlist by Aditya Verma<br>
            iii) Sorting — Playlist by mycodeschool<br>
             
-Stacks & Queues : Stack Playlist by Aditya Verma<br>
-Queue — To understand the basics of the queue go to Jenny’s Lecture<br>
+2) Stacks & Queues : Stack Playlist by Aditya Verma<br>
+   Queue — To understand the basics of the queue go to Jenny’s Lecture<br>
 
 
 #### Practice Questions, Jump into coding questions by solving from these links, start from easy questions then proceed as you go <br>
