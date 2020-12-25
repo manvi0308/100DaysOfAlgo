@@ -30,16 +30,17 @@
 
 Topic | Number of problems solved | Sources<br>
 ----- | ------------------------- | ------------------------
-Arrays | 32                      | Geeks for Geeks, Techiedelight
-Linked List |23                   | Geeks for Geeks, InterviewBit
-Mathematical Thinking | 23        | Interview Bit, Tutorials Point
-Dynamic Programming | 16          | Interview Bit, Elements of programming interview Book
-Graphs              | 9           | Programiz, Interview Bit
-Tree                | 5           | Elements of programming interview Book
+Arrays | 35                   | Geeks for Geeks, Techiedelight
+Linked List |28                   | Geeks for Geeks, InterviewBit
+Mathematical Thinking | 34       | Interview Bit, Tutorials Point
+Dynamic Programming | 27         | Interview Bit, Elements of programming interview Book
+Recusrion      | 15    | GFG
+Graphs              | 19          | Programiz, Interview Bit
+Tree                | 15           | Elements of programming interview Book
 Hashing             | 8          | Techie delight
 Hackerrank 30dayschallenge | 30   | Hackerrank
 NPTEL Programming In Java Assignment Solutions  | 15   | NPTEL
-Total | 188
+Total | 226
 
 
 #### Find the ![RESOURCES](https://github.com/manvi0308/100DaysOfAlgo/tree/master/resources) here
