@@ -1,4 +1,4 @@
-''' 1) Problem Statement : Remove redundant nodes in a linked list
+''' 1) Problem Statement : Remove redundant nodes in linked list
     2) Logic : Any three adjacent nodes with same x or y value will be a redundant node, if found same x or y value for a 
     triplet then simply remove the middle node,do so for every three nodes in succession and this way the resultant 
     list will be redundant free linked list
