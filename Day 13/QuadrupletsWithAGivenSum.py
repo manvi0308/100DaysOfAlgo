@@ -1,7 +1,7 @@
 '''Four sum problem : Quadruplets with given sum
    Useful links     : 'https://www.w3schools.com/python/ref_dictionary_setdefault.asp'
                       'https://github.com/manvi0308/100-Days-of-Python' (for code with complete details)
-   Pre-requisites   : Dictionary and Hashing basics
+   Pre-requisites   : Dictionary and Hashing basics are required
    Logic            : Iterate through pair find its sum , subtract it from the desired sum if there exists a value in dictionary that equals the
                       value of remaining sum in that case a quadruplet will be found(i.e. array[i]+array[j]+array[k]+array[y] == sum
                       If after going through all pairs no quadruplets is found in that case return False'''
