@@ -3,7 +3,8 @@
 # Node class
 class Node:
     
-    # Function to initialize the node object
+    
+    # initialing the node object
     def __init__(self,data):
         self.data = data  # Assigning data
         self.next = None  # Assigning next as NULL
