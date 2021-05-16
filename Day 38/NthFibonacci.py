@@ -12,7 +12,6 @@ This O(A) approach which relies on the fact that if we n times multiply the matr
 
 The matrix representation gives the following closed expression for the Fibonacci numbers:
 
-
 This method can be optimized to work in O(LogA) time complexity.
 We can do recursive multiplication to get power(M, n) in the previous method using this trick.
 
