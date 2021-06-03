@@ -5,7 +5,7 @@
                                    candies_distribution_demo is an array that has the distribution of candies among several elephants
     Approach Used for problem    : Clearly if A[i] denotes the candies distributed to ith elephant then at most A[1] + A[2] + A[3] ........A[n]
     <= count_candies(Reason candies distributed cannot be greater than total candies present
-    Output format                : YES/NO'''
+    Output format                : YEs'''
 
 def isElephantHappy(count_elephants,count_candies,candies_distribution):
     n = len(candies_distribution)
